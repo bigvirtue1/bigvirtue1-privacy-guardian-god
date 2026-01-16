@@ -3,6 +3,10 @@ Hardware-bound encryption with runtime plaintext protection and physical securit
 
 https://github.com/user-attachments/assets/97046ab0-7839-4764-b71a-7643c241c028
 
+https://github.com/user-attachments/assets/7b073d79-15f8-4c79-b1a9-3ef52f1a009a
+
+
+
 ## https://github.com/bigvirtue1/bigvirtue1-privacy-guardian-god
 ## bigvirtue1 privacy guardian god quantum public key encryption program Demo
 
